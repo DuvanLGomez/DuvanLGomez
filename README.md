@@ -1,4 +1,4 @@
-### Hi there 👋, My mane is Duvan Gomez
+### Hi there 👋, My name is Duvan Gomez
 ####  I am a Mobile Applications Developer
 ![ I am a Mobile Applications Developer](https://cdn.pixabay.com/photo/2024/06/14/12/15/developer-8829735_1280.jpg)
 
