@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://img.icons8.com/ios/50/000000/computer.png" alt="computer icon"/> 
-  <img src="https://img.icons8.com/ios/50/000000/smartphone.png" alt="mobile icon"/>  
-  ### Hi there 👋, My name is Duvan Gomez
-  #### I am a Mobile Applications Developer
-</p>
+<p align="center"> 
+Hi there 👋, My name is Duvan Gomez,
+I am a Mobile Applications Developer 📲💻📈📚
+
 ![ I am a Mobile Applications Developer](https://cdn.pixabay.com/photo/2024/06/14/12/15/developer-8829735_1280.jpg)
 
 I made several projects just for fun in Kotlin and Java.
@@ -14,3 +12,4 @@ Skills: ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-th
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: duvangomez2218@gmail.com 
 - ⚡ Fun fact: My background in chess has honed my analytical and strategic skills, which I leverage to tackle complex problems in mobile programming and artificial intelligence. This unique combination of skills enables me to develop innovative and effective solutions in my projects. 
+</p>
