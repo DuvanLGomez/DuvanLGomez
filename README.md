@@ -1,5 +1,9 @@
-### Hi there 👋, My name is Duvan Gomez
-####  I am a Mobile Applications Developer
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/000000/computer.png" alt="computer icon"/> 
+  <img src="https://img.icons8.com/ios/50/000000/smartphone.png" alt="mobile icon"/>  
+  ### Hi there 👋, My name is Duvan Gomez
+  #### I am a Mobile Applications Developer
+</p>
 ![ I am a Mobile Applications Developer](https://cdn.pixabay.com/photo/2024/06/14/12/15/developer-8829735_1280.jpg)
 
 I made several projects just for fun in Kotlin and Java.
